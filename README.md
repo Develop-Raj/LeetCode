@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 2 / 100**
+**Progress: 4 / 100**
 
 ```
-[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2%
+[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 4%
 ```
 
 ## 📁 Repository Structure
@@ -46,10 +46,10 @@ easy/
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 2 |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **2** |
+| **Total** | **4** |
 
 ## 🛠 How I Work
 
