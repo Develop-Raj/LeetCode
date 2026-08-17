@@ -24,23 +24,14 @@ LeetCode/
 └── README.md
 ```
 
-Each solution lives in its own folder or file named after the problem, for example:
-
-```
-easy/
-└── 001-two-sum/
-    ├── solution.py
-    └── notes.md
-```
-
 ## 📊 Problem Log
 
-| # | Problem | Difficulty | Language | Date | Notes |
-|---|---------|-----------|----------|------|-------|
-| 1 | | Easy | | | |
-| 2 | | Easy | | | |
-
-*(update this table as you go — swap in problem names/links once you fill them in)*
+| # | Problem | Difficulty | Language | Date |
+|---|---------|-----------|----------|------|
+| 1 | Palindrome Number | Easy | Java | 16th August |
+| 2 | Power of 2 | Easy | Java | 16th August |
+| 3 | Power of 3 | Easy | Java | 16th August |
+| 4 | Power of 4 | Easy | Java | 16th August |
 
 ## 📈 Stats
 
