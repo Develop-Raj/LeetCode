@@ -32,6 +32,8 @@ LeetCode/
 | 2 | Power of 2 | Easy | Java | 16th August |
 | 3 | Power of 3 | Easy | Java | 16th August |
 | 4 | Power of 4 | Easy | Java | 16th August |
+| 5 | Fibonacci Series | Easy | Java | 17th August |
+| 6 | Tribonacci Series | Easy | Java | 17th August |
 
 ## 📈 Stats
 
