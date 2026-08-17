@@ -39,10 +39,10 @@ LeetCode/
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 4 |
+| 🟢 Easy | 6 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **4** |
+| **Total** | **6** |
 
 ## 🛠 How I Work
 
