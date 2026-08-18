@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 8 / 100**
+**Progress: 9 / 100**
 
 ```
-[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 8%
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 9%
 ```
 
 ## 📁 Repository Structure
@@ -35,16 +35,17 @@ LeetCode/
 | 5 | Fibonacci Series | Easy | Java | 17th August |
 | 6 | Tribonacci Series | Easy | Java | 17th August |
 | 7 | Search Insert Position | Easy | Java | 18th August |
-| 6 | Length of Last word | Easy | Java | 18th August |
+| 8 | Length of Last word | Easy | Java | 18th August |
+| 9 | Single Number | Easy | Java | 18th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 8 |
+| 🟢 Easy | 9 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ## 🛠 How I Work
 
