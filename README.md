@@ -6,7 +6,7 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 12 / 100**
+**Progress: 13 / 100**
 
 ```
 [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%
@@ -40,6 +40,7 @@ LeetCode/
 | 10 | To Lower Case | Easy | Java | 19th August |
 | 11 | Capitalize the Title | Easy | Java | 19th August |
 | 12 | Sum Multiples | Easy | Java | 19th August |
+| 13 | Alternating Digit Sum | Easy | Java | 19th August |
 
 ## 📈 Stats
 
