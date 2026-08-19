@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 11 / 100**
+**Progress: 12 / 100**
 
 ```
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 11%
+[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 12%
 ```
 
 ## 📁 Repository Structure
@@ -38,16 +38,17 @@ LeetCode/
 | 8 | Length of Last word | Easy | Java | 18th August |
 | 9 | Single Number | Easy | Java | 18th August |
 | 10 | To Lower Case | Easy | Java | 19th August |
-| 9 | Capitalize the Title | Easy | Java | 19th August |
+| 11 | Capitalize the Title | Easy | Java | 19th August |
+| 12 | Sum Multiples | Easy | Java | 19th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 11 |
+| 🟢 Easy | 12 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **11** |
+| **Total** | **12** |
 
 ## 🛠 How I Work
 
