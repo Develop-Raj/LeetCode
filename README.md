@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 20 / 100**
+**Progress: 22 / 100**
 
 ```
-[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 21%
+[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 22%
 ```
 
 ## 📁 Repository Structure
@@ -49,6 +49,7 @@ LeetCode/
 | 19 | Find the peaks | Easy | Java | 29th August |
 | 20 | Find the integer added to array | Easy | Java | 29th August |
 | 21 | Find the Sum of Encrypted integer | Easy | Java | 29th August |
+| 22 | Ugly Number | Easy | Java | 29th August |
 
 ## 📈 Stats
 
@@ -57,7 +58,7 @@ LeetCode/
 | 🟢 Easy | 21 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ## 🛠 How I Work
 
