@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 13 / 100**
+**Progress: 20 / 100**
 
 ```
-[██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 13%
+[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 21%
 ```
 
 ## 📁 Repository Structure
@@ -41,15 +41,23 @@ LeetCode/
 | 11 | Capitalize the Title | Easy | Java | 19th August |
 | 12 | Sum Multiples | Easy | Java | 19th August |
 | 13 | Alternating Digit Sum | Easy | Java | 19th August |
+| 14 | Max Consecutive Ones | Easy | Java | 29th August |
+| 15 | Consecutive Character | Easy | Java | 29th August |
+| 16 | Contains Duplicates | Easy | Java | 29th August |
+| 17 | Intersections of two arrays | Easy | Java | 29th August |
+| 18 | Sort the people| Easy | Java | 29th August |
+| 19 | Find the peaks | Easy | Java | 29th August |
+| 20 | Find the integer added to array | Easy | Java | 29th August |
+| 21 | Find the Sum of Encrypted integer | Easy | Java | 29th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 13 |
+| 🟢 Easy | 21 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **13** |
+| **Total** | **21** |
 
 ## 🛠 How I Work
 
