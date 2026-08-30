@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 22 / 100**
+**Progress: 27 / 100**
 
 ```
-[██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 22%
+[████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 27%
 ```
 
 ## 📁 Repository Structure
@@ -50,15 +50,20 @@ LeetCode/
 | 20 | Find the integer added to array | Easy | Java | 29th August |
 | 21 | Find the Sum of Encrypted integer | Easy | Java | 29th August |
 | 22 | Ugly Number | Easy | Java | 29th August |
+| 23 | Happy Number | Easy | Java | 29th August |
+| 24 | Smallest Even Multiple | Easy | Java | 30th August |
+| 25 | Day of the Week | Easy | Java | 30th August |
+| 26 | Maximum 69 Number | Easy | Java | 30th August |
+| 27 | Fin | Easy d the Numbers with even Number of Digit| Java | 30th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 21 |
+| 🟢 Easy | 27 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **22** |
+| **Total** | **27** |
 
 ## 🛠 How I Work
 
