@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 28 / 100**
+**Progress: 32 / 100**
 
 ```
-[█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 28%
+[███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 32%
 ```
 
 ## 📁 Repository Structure
@@ -56,15 +56,19 @@ LeetCode/
 | 26 | Maximum 69 Number | Easy | Java | 30th August |
 | 27 | Find the Numbers with even Number of Digit | Easy | Java | 30th August |
 | 28 | Calculate Money in LeetCode Bank | Easy | Java | 30th August |
+| 29 | Convert the temperature | Easy | Java | 30th August |
+| 30 | Find if the Digit Game can be won | Easy | Java | 30th August |
+| 31 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | Java | 30th August |
+| 32 | Number of Steps to Reduce a Number to Zero | Easy | Java | 30th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 28 |
+| 🟢 Easy | 32 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **28** |
+| **Total** | **32** |
 
 ## 🛠 How I Work
 
