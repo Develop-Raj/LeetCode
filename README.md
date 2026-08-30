@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 27 / 100**
+**Progress: 28 / 100**
 
 ```
-[████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 27%
+[█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 28%
 ```
 
 ## 📁 Repository Structure
@@ -54,16 +54,17 @@ LeetCode/
 | 24 | Smallest Even Multiple | Easy | Java | 30th August |
 | 25 | Day of the Week | Easy | Java | 30th August |
 | 26 | Maximum 69 Number | Easy | Java | 30th August |
-| 27 | Fin | Easy d the Numbers with even Number of Digit| Java | 30th August |
+| 27 | Find the Numbers with even Number of Digit | Easy | Java | 30th August |
+| 28 | Calculate Money in LeetCode Bank | Easy | Java | 30th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 27 |
+| 🟢 Easy | 28 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **27** |
+| **Total** | **28** |
 
 ## 🛠 How I Work
 
