@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 32 / 100**
+**Progress: 37 / 100**
 
 ```
-[███████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 32%
+[██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 37%
 ```
 
 ## 📁 Repository Structure
@@ -60,15 +60,20 @@ LeetCode/
 | 30 | Find if the Digit Game can be won | Easy | Java | 30th August |
 | 31 | Find Minimum Operations to Make All Elements Divisible by Three | Easy | Java | 30th August |
 | 32 | Number of Steps to Reduce a Number to Zero | Easy | Java | 30th August |
+| 33 | Add Two Integer | Easy | Java | 31th August |
+| 34 | Fizz Buzz | Easy | Java | 31th August |
+| 35 | Running Sum of 1D Array | Easy | Java | 31th August |
+| 36 | Richest Customer Wealth | Easy | Java | 31th August |
+| 37 | Shuffle The Array | Easy | Java | 31th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 32 |
+| 🟢 Easy | 37 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **32** |
+| **Total** | **37** |
 
 ## 🛠 How I Work
 
