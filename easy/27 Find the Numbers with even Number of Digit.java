@@ -39,3 +39,28 @@ class Solution {
 }
 
 //1ms
+
+
+
+class Solution {
+    public int findNumbers(int[] nums){
+        int c = 0;
+        for(int i : nums){
+            if(check(i)){
+                c++;
+            }
+        }
+        return c;
+    }
+    public Boolean check(int n){
+        int c = 0;
+        while(n != 0){
+            c++;
+            n/=10;
+        }
+        return c % 2 == 0;
+    }
+}
+
+/1ms
+    
