@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 37 / 100**
+**Progress: 40 / 100**
 
 ```
-[██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 37%
+[████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 40%
 ```
 
 ## 📁 Repository Structure
@@ -65,15 +65,18 @@ LeetCode/
 | 35 | Running Sum of 1D Array | Easy | Java | 31th August |
 | 36 | Richest Customer Wealth | Easy | Java | 31th August |
 | 37 | Shuffle The Array | Easy | Java | 31th August |
+| 38 | Concatenation of Array | Easy | Java | 31th August |
+| 39 | Kids With the Greatest Number of Candies | Easy | Java | 31th August |
+| 40 | How many Numbers are Smaller than Current Number | Easy | Java | 31th August |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 37 |
+| 🟢 Easy | 40 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **37** |
+| **Total** | **40** |
 
 ## 🛠 How I Work
 
