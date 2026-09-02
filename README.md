@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 43 / 100**
+**Progress: 45 / 100**
 
 ```
-[█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 43%
+[█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 45%
 ```
 
 ## 📁 Repository Structure
@@ -70,7 +70,9 @@ LeetCode/
 | 40 | How many Numbers are Smaller than Current Number | Easy | Java | 1st September |
 | 41 | Valid Perfect Square | Easy | Java | 1st September  |
 | 42 | Best Time to Buy and Sell Stock | Easy | Java | 1st September  |
-| 43 | Two Sum | Easy | Java | 2nd September  |
+| 43 | Two Sum | Easy | Java | 2nd September |
+| 44 | Valid Anagram | Easy | Java | 2nd September |
+| 45 | Valid Palindrome | Easy | Java | 2nd September |
 
 ## 📈 Stats
 
