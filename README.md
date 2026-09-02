@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 40 / 100**
+**Progress: 43 / 100**
 
 ```
-[████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 40%
+[█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 43%
 ```
 
 ## 📁 Repository Structure
@@ -67,16 +67,19 @@ LeetCode/
 | 37 | Shuffle The Array | Easy | Java | 31th August |
 | 38 | Concatenation of Array | Easy | Java | 31th August |
 | 39 | Kids With the Greatest Number of Candies | Easy | Java | 31th August |
-| 40 | How many Numbers are Smaller than Current Number | Easy | Java | 31th August |
+| 40 | How many Numbers are Smaller than Current Number | Easy | Java | 1st September |
+| 41 | Valid Perfect Square | Easy | Java | 1st September  |
+| 42 | Best Time to Buy and Sell Stock | Easy | Java | 1st September  |
+| 43 | Two Sum | Easy | Java | 2nd September  |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 40 |
+| 🟢 Easy | 43 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **40** |
+| **Total** | **43** |
 
 ## 🛠 How I Work
 
