@@ -77,8 +77,8 @@ LeetCode/
 | 47 | Perfect Number | Easy | Java | 2nd September |
 | 48 | Add Digits | Easy | Java | 2nd September |
 | 49 | Digit Frequence Score | Easy | Java | 3rd September |
-| 50 | Harshad Number | Easy | Java | 3rd September |
-| 51 | Divisible and Non-divisible Sums Difference | Easy | Java | 3rd September |
+| 50 | Divisible and Non-divisible Sums Difference | Easy | Java | 3rd September |
+| 51 | Harshad Number | Easy | Java | 3rd September |
 
 ## 📈 Stats
 
