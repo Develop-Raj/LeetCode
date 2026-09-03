@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 48 / 100**
+**Progress: 51 / 100**
 
 ```
-[███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░] 48%
+[████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 51%
 ```
 
 ## 📁 Repository Structure
@@ -76,15 +76,18 @@ LeetCode/
 | 46 | Traffic Signal Color | Easy | Java | 2nd September |
 | 47 | Perfect Number | Easy | Java | 2nd September |
 | 48 | Add Digits | Easy | Java | 2nd September |
+| 49 | Digit Frequence Score | Easy | Java | 3rd September |
+| 50 | Harshad Number | Easy | Java | 3rd September |
+| 51 | Divisible and Non-divisible Sums Difference | Easy | Java | 3rd September |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 48 |
+| 🟢 Easy | 51 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **48** |
+| **Total** | **51** |
 
 ## 🛠 How I Work
 
