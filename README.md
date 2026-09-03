@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 45 / 100**
+**Progress: 48 / 100**
 
 ```
-[█████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 45%
+[███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░] 48%
 ```
 
 ## 📁 Repository Structure
@@ -73,15 +73,18 @@ LeetCode/
 | 43 | Two Sum | Easy | Java | 2nd September |
 | 44 | Valid Anagram | Easy | Java | 2nd September |
 | 45 | Valid Palindrome | Easy | Java | 2nd September |
+| 46 | Traffic Signal Color | Easy | Java | 2nd September |
+| 47 | Perfect Number | Easy | Java | 2nd September |
+| 48 | Add Digits | Easy | Java | 2nd September |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 43 |
+| 🟢 Easy | 48 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **43** |
+| **Total** | **48** |
 
 ## 🛠 How I Work
 
