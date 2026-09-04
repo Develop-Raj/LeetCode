@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 51 / 100**
+**Progress: 53 / 100**
 
 ```
-[████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 51%
+[█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 53%
 ```
 
 ## 📁 Repository Structure
@@ -79,15 +79,17 @@ LeetCode/
 | 49 | Digit Frequence Score | Easy | Java | 3rd September |
 | 50 | Divisible and Non-divisible Sums Difference | Easy | Java | 3rd September |
 | 51 | Harshad Number | Easy | Java | 3rd September |
+| 52 | XOR Operation in a Array | Easy | Java | 3rd September |
+| 53 | Missing Number | Easy | Java | 3rd September |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 51 |
+| 🟢 Easy | 53 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **51** |
+| **Total** | **53** |
 
 ## 🛠 How I Work
 
