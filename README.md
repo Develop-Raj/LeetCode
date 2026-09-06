@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 55 / 100**
+**Progress: 56 / 100**
 
 ```
-[██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 55%
+[██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 56%
 ```
 
 ## 📁 Repository Structure
@@ -83,15 +83,16 @@ LeetCode/
 | 53 | Missing Number | Easy | Java | 3rd September |
 | 54 | Majority Element | Easy | Java | 6th September |
 | 55 | Pascal's Triangle | Easy | Java | 6th September |
+| 56 | Height Checker | Easy | Java | 6th September |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 55 |
+| 🟢 Easy | 56 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **55** |
+| **Total** | **56** |
 
 ## 🛠 How I Work
 
