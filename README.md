@@ -6,10 +6,10 @@ My personal journey solving LeetCode problems, one question at a time. 🚀
 
 Reach **100 solved questions**.
 
-**Progress: 53 / 100**
+**Progress: 55 / 100**
 
 ```
-[█████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 53%
+[██████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 55%
 ```
 
 ## 📁 Repository Structure
@@ -81,15 +81,17 @@ LeetCode/
 | 51 | Harshad Number | Easy | Java | 3rd September |
 | 52 | XOR Operation in a Array | Easy | Java | 3rd September |
 | 53 | Missing Number | Easy | Java | 3rd September |
+| 54 | Majority Element | Easy | Java | 6th September |
+| 55 | Pascal's Triangle | Easy | Java | 6th September |
 
 ## 📈 Stats
 
 | Difficulty | Solved |
 |-----------|--------|
-| 🟢 Easy | 53 |
+| 🟢 Easy | 55 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **53** |
+| **Total** | **55** |
 
 ## 🛠 How I Work
 
